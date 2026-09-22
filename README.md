@@ -12,9 +12,11 @@ This profile is organized into three lanes, reflecting the two things I bring to
 
 | Lane | Repo | What's there |
 |---|---|---|
-| 🔬 **ML/DL Research** | [`ml-dl-research`](https://github.com/awaneeshtiwari1988/ml-dl-research) | Deep learning, NLP, and deep RL projects — implementations from scratch, not just library calls |
-| ⚙️ **ML Systems Engineering** | [`ml-systems-engineering`](https://github.com/awaneeshtiwari1988/ml-systems-engineering) | Production-style ML services: Spring Boot, Kafka, Elasticsearch — putting models behind real infrastructure |
+| 🔬 **ML/DL Research** | [`ml-dl-research`](https://github.com/awaneeshtiwari1988/ml-dl-research) | Deep learning, NLP, deep RL, robotics, and multimodal AI projects — implementations from scratch, not just library calls |
+| ⚙️ **ML Systems Engineering** | [`ml-systems-engineering`](https://github.com/awaneeshtiwari1988/ml-systems-engineering) | Production-style ML services: Spring Boot, Kafka, Elasticsearch, microservices — putting models behind real infrastructure |
 | ⚛️ **Quantum Machine Learning** | [`quantum-ml`](https://github.com/awaneeshtiwari1988/quantum-ml) | Quantum computing fundamentals building toward hybrid quantum-classical ML |
+| 🧩 **DSA — Python** | [`dsa-python`](https://github.com/awaneeshtiwari1988/dsa-python) | Interview prep, organized by pattern |
+| 🧩 **DSA — Java** | [`dsa-java`](https://github.com/awaneeshtiwari1988/dsa-java) | Interview prep in Java, including concurrency tied to production Kafka experience |
 
 ---
 
